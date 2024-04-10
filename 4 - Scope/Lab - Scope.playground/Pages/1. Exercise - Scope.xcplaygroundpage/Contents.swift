@@ -27,8 +27,8 @@ func greeting(greeting: String?, name: String) {
         print("HELLO")
     }
 }
-greeting(greeting: "Hello", name: "Ciu")
-greeting(greeting: nil, name: "Ciu")
+greeting(greeting: "Hello", name: "Jipnesh")
+greeting(greeting: nil, name: "Jipnesh")
 //:  Create a class called `Car`. It should have properties for `make`, `model`, and `year` that are of type `String`, `String`, and `Int`, respectively. Since this is a class, you'll need to write your own memberwise initializer. Use shadowing when naming parameters in your initializer.
 class Car{
     var make: String
